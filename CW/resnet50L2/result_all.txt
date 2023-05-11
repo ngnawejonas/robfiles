@@ -1,0 +1,4 @@
+Accuracy: 0.9108 
+Adverserial accuracy: 0.0736
+Adverserial failure: 0.0145
+Spearman correlation Entropy vs CW norm (adverserial only): -0.7781748053092512

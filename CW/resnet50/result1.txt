@@ -1,0 +1,1 @@
+Adverserial accuracy (batch 1): 0.054410882176435284
